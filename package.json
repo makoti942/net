@@ -1,0 +1,28 @@
+{
+  "name": "net_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makoti942/net.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makoti942/net/issues"
+  },
+  "homepage": "https://github.com/makoti942/net#readme",
+  "dependencies": {
+    "better-sqlite3": "^12.11.1",
+    "body-parser": "^2.3.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "intasend-node": "^1.1.2"
+  }
+}
